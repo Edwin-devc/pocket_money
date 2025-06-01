@@ -1,6 +1,6 @@
 # 💰 Pocket Money
 
-**Pocket Money** is a web application that enables parents to manage upkeep money for their children who are students. It provides a simple, secure, and efficient way to control and monitor student spending within school environments.
+**Pocket Money** is a web application that enables parents to manage upkeep money for their school-going children. It provides a simple, secure, and efficient way to control and monitor student spending within school environments.
 
 ---
 
@@ -11,19 +11,26 @@
 - Add multiple students/children
 - Set a secure PIN for each student
 - Deposit money into student accounts
-- Set a daily spending limit for each student
+- Set daily spending limits
 - Deactivate student accounts when needed
 
-### 🔐 Student Account
-- Each student account is assigned a unique account number
-- A QR code is generated for the account
-- QR codes can be scanned by vendors at the school canteen for quick transactions
+### 🔐 Student Accounts
+- Each account gets a unique account number
+- QR code linked to the account for scanning at the school canteen
 
 ### 🧾 For Vendors
-- Create an account
-- Add payment details
-- Scan student QR codes for payments
+- Create an account and add payment details
+- Scan student QR codes to receive payments
 - Assist students with PIN changes
+
+---
+
+## 🚀 What Makes Us Different
+- No swipe machines needed — transactions can be done via QR code or USSD (for non-smartphone vendors)
+- Direct deposits to student accounts — no need for cash or intermediaries like teachers
+- Use the card/account anywhere — no dependency on specific agents
+- Anyone can deposit to a student's account using the account number
+- Students don’t need physical cards if they know their account number
 
 ---
 

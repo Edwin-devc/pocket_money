@@ -1,0 +1,15 @@
+{
+  "name": "pocket_money",
+  "version": "1.0.0",
+  "description": "**Pocket Money** is a web application that enables parents to manage upkeep money for their children who are students. It provides a simple, secure, and efficient way to control and monitor student spending within school environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
